@@ -11,10 +11,3 @@
 
 
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,js,figma" />
-</p>
-
-<hr>
